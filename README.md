@@ -1,1 +1,1 @@
-# This is not Stingray's source code.
+This is not Stingray's source code.
