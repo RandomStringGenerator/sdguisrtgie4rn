@@ -1,1 +1,1 @@
-# sdguisrtgie4rn
+# This is not Stingray's source code.
